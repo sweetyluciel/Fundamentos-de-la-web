@@ -6,7 +6,7 @@
 	padding: 4px 45px;
 	display: inline-block;
 	font-size: 16px;
-	margin: 4px 10px;
+	margin: 4px 30px;
 	cursor: pointer;
 	font-size: 15px;
 	font-weight: bold;
@@ -17,7 +17,7 @@
 	color: white;
 	padding: 7px 12px;
 	display: inline-block;
-	margin: 4px 10px;
+	margin: 4px 30px;
 	border-radius: 50%;
 	cursor: pointer;
 	font-size: 20px;
@@ -28,7 +28,7 @@
 	padding: 7px 30px;
 	display: inline-block;
 	font-size: 16px;
-	margin: 4px 10px;
+	margin: 4px 30px;
 	cursor: pointer;
 	border: 2px solid black;
 	box-shadow: 3px 3px 2px 1px black;
