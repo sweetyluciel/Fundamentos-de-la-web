@@ -1,0 +1,33 @@
+#caja1 {
+    background-color:#1E90FF;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 1%;
+}
+#caja2 {
+    background-color: #008B8B;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 1%;
+}
+#caja3 {
+    background-color:#5F9EA0;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 1%;
+}
+img {
+    width: 250px;
+    height: 220px;
+    margin: 1%;
+}
+#content{
+    margin: 1%;
+}
+h1{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
