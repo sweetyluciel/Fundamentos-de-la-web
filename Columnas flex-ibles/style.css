@@ -1,0 +1,27 @@
+.row {
+    display: flex;
+}
+.col{
+    display: inline-flex;
+    flex: 1;
+    padding: 20px;
+    margin: 10px;
+    background-color: #ADD8E6;
+    color: white;
+}
+.col-2 {
+    display: inline-flex;
+    flex: 2;
+    padding: 20px;
+    margin: 10px;
+    background-color: #ADD8E6;
+    color: white;
+}
+.col-3{
+    display: inline-flex;
+    flex: 3;
+    padding: 20px;
+    margin: 10px;
+    background-color: #ADD8E6;
+    color: white;
+}
