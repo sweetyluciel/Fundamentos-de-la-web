@@ -1,0 +1,1 @@
+document.getElementsByClassName('sf-add-item sf-mt-40 sf-pull-right')[0].setAttribute('onclick','this.hidden=true');
