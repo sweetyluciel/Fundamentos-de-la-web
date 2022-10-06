@@ -1,1 +1,9 @@
-document.getElementsByClassName('sf-add-item sf-mt-40 sf-pull-right')[0].setAttribute('onclick','this.hidden=true');
+function LogOut(element) {
+    element.innerText = "Logout";
+}
+function EliminarBTN(element) {
+    element.remove();
+}
+function aNinjaLeGusta() {
+    alert("Ninja was liked!");
+}

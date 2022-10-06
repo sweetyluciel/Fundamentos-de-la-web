@@ -83,13 +83,14 @@ a {
 .like {
     background: rgb(224, 181, 40);
     box-shadow: 3px 3px 2px 1px black;
-	width: 80px;
+	width: 100px;
 	height: 40px;
     font-size: 20px;
     cursor: pointer;
     font-family: cursive;
+    position: absolute;
     margin-left: 20px;
-}
+    margin-top: -10px;}
 .Box-2 {
     height: 200px;
     width: 500px;
@@ -131,6 +132,18 @@ a {
     font-size: 20px;
     font-weight: 600;
     margin-right: 20px;
+}
+.like-2{
+    background: rgb(224, 181, 40);
+    box-shadow: 3px 3px 2px 1px black;
+	width: 100px;
+	height: 40px;
+    font-size: 20px;
+    cursor: pointer;
+    font-family: cursive; 
+    position: absolute;
+    margin-left: 20px;
+    margin-top: -40px;
 }
 .Box-3 {
     height: 170px;
